@@ -1,4 +1,4 @@
-## banjara_house
+## e-commerce web
 
 Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 
